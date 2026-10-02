@@ -1,2 +1,2 @@
 # try_c-
-C++ learning
+C learning
